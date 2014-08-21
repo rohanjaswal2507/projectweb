@@ -1,0 +1,15 @@
+html {
+	font-family: sans-serif;
+	-webkit-text-size-adjust: 100%;
+     -ms-text-size-adjust: 100%;
+}
+.navbar{
+	background-color:blue;
+}
+.navbar li{
+	float:left;
+	color:white;
+	background-color:green;
+}
+.navbar a{
+	

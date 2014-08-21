@@ -1,0 +1,20 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ 	<meta name="description" content="CSEC is the departmental team of Computer Science and Engineering department of National Institute of Technology,
+ 	Hamirpur">
+ 	<meta name="keywords" content="CSEC, CSE NITH, FORCE, DEPARTMENTAL TEAMS IN NITH,CSED NITH">
+   	<meta name="author" content="CSEC">
+	<title>CSEC</title>
+	<link rel="stylesheet" type="text/css" href="./css/main.css" />
+</head>
+<body>
+	<div class="navbar">
+		<li><a href="https://www.csec.nith.ac.in/index.php">Home</a></li>
+		<li><a href="https://www.csec.nith.ac.in/index.php">Articles</a></li>
+		<li><a href="https://www.csec.nith.ac.in/index.php">News</a></li>
+		<li><a href="https://www.csec.nith.ac.in/index.php">Members</a></li>
+	</div>
+</body>
+</html>
+	

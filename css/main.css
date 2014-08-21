@@ -1,0 +1,17 @@
+html {
+	font-family: sans-serif;
+	-webkit-text-size-adjust: 100%;
+     -ms-text-size-adjust: 100%;
+}
+.navbar{
+	background-color:blue;
+	margin:none;
+}
+.navbar li{
+	float:left;
+	border:solid
+	color:white;
+	background-color:green;
+}
+.navbar a{
+	
